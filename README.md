@@ -13,7 +13,7 @@ I'm **Tushar Sangamnerkar**, a **Data Engineer & Data Science Enthusiast** passi
 
 ### 🔗 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tusharsangamnerkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/TusharSangamnerkar)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Tushar-spec)
 
 
 ---
