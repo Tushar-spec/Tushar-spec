@@ -18,12 +18,6 @@ I'm **Tushar Sangamnerkar**, a **Data Engineer & Data Science Enthusiast** passi
 
 ---
 
-### 🚀 GitHub Stats:
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharSangamnerkar&show_icons=true&theme=dark)
-
-### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharSangamnerkar&layout=compact&theme=dark)
-
 ### 👀 Profile Views:
 ![Profile Views](https://komarev.com/ghpvc/?username=TusharSangamnerkar&color=blue)
 
