@@ -5,8 +5,6 @@ I'm **Tushar Sangamnerkar**, a **Data Engineer & Data Science Enthusiast** passi
 
 ### 🔥 About Me:
 - 🎓 Pursuing **Master’s in Informatik at HTW Berlin**
-- 🚀 **Building AI-powered FinOps SaaS MVP**
-- 📚 **Thesis:** AutoGPT for **Data Governance & Compliance Automation**
 - 💡 **Interested in:** Data Engineering, Machine Learning, and Cloud Solutions
 - 🌱 Currently learning **MongoDB, FinOps, and AI Agents**
 - 💼 Previous experience at **Voltas, OEV Technologies, and Honeysales.GmbH**
@@ -22,11 +20,6 @@ I'm **Tushar Sangamnerkar**, a **Data Engineer & Data Science Enthusiast** passi
 ![Profile Views](https://komarev.com/ghpvc/?username=TusharSangamnerkar&color=blue)
 
 ---
-
-### 📌 Pinned Projects:
-- 🚀 [AutoGPT for Data Governance](https://github.com/TusharSangamnerkar/AutoGPT-Data-Governance)
-- 🌩️ [Cloud Cost Optimization](https://github.com/TusharSangamnerkar/Cloud-Cost-Optimization)
-- 🎵 [Spotify Bias Analysis](https://github.com/TusharSangamnerkar/Spotify-Bias-Analysis)
 
 💡 **Let’s connect and build something awesome!** 🚀
 
