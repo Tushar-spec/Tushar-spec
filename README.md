@@ -6,7 +6,7 @@ I'm **Tushar Sangamnerkar**, a **Data Engineer & Data Science Enthusiast** passi
 ### 🔥 About Me:
 - 🎓 Pursuing **Master’s in Informatik at HTW Berlin**
 - 💡 **Interested in:** Data Engineering, Machine Learning, and Cloud Solutions
-- 🌱 Currently learning **MongoDB, FinOps, and AI Agents**
+- 🌱 Currently learning **FinOps, and AI Agents**
 - 💼 Previous experience at **Voltas, OEV Technologies, and Honeysales.GmbH**
 
 ### 🔗 Connect With Me:
