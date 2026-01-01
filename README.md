@@ -1,5 +1,5 @@
 
-👋 Welcome to my GitHub profile!
+👋 Welcome to my GitHub!
 
 I'm **Tushar Sangamnerkar**, a **Data Engineer & Data Science Enthusiast** passionate about **automation, cloud computing, and AI-driven solutions**. I enjoy solving complex data challenges and building efficient pipelines for data-driven decision-making. 
 
